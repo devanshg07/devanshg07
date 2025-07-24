@@ -20,9 +20,11 @@ My primary motive as an engineer is to develop technologies and tools that make 
 2. **(https://github.com/devanshg07/CiviClinic)** CiviClinic bridges patients and doctors with AI-powered symptom checks, smart wound analysis, and intelligent doctor matching. Instantly assess health, scan injuries, and find care nearby—reducing unnecessary ER visits and making healthcare more accessible. Modern Python/Flask app with machine learning, GPT-powered symptom analysis, and real medical data.
 3. **(https://github.com/devanshg07/HousePricePredictionCanada)** HousePricePredictionCanada is a full-stack machine learning project designed to predict house prices in Canadian cities. It leverages a dataset of real estate listings, including features such as city, number of bedrooms, and bathrooms, to train a regression model. The project provides a user-friendly web interface for users to input property details and receive instant price predictions. Check it out here: https://house-price-prediction-canada-f-git-22cbbe-devanshg07s-projects.vercel.app/
 
+### Resume
+https://docs.google.com/document/d/1ENQE7DyKBycYKb27E80NPjzEqrZV9eyk/edit?usp=sharing&ouid=104395664869423140192&rtpof=true&sd=true
+
 ### Reach Out!
 https://www.linkedin.com/in/devanshg07/
-
 Instagram: devanshg07
 
 <!-- 
