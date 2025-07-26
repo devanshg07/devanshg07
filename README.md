@@ -10,9 +10,11 @@ I have experience in Full-Stack Development, typically using a **React.js** fron
 My primary motive as an engineer is to develop technologies and tools that make an immediate yet impactful change on our society. Whether it's through coding or hardware, I want to more than just use my skills, I instead want to apply them in the real world and leave a positive dent on my community.
 
 ### Skills & Technologies
-- **Languages:** Python, Java, JavaScript, TypeScript, HTML, CSS, SQL
-- **Frameworks and Libaries:** Flask, React.js, Node.js, PyTorch, TensorFlow, NumPy
 - **Tools & Databases:** Git,, PostgreSQL, MySQL, SQLite
+- **Languages:** Python, Java, JavaScript, TypeScript, HTML/CSS, SQL, C++, C
+- **Libraries and Frameworks:** Flask, React.js, Node.js, Next.js, Svelte.js, PyTorch, TensorFlow, NumPy
+- **Tools and Databases:** Git, GitHub, PostgreSQL, MySQL, SQLite, MongoDB
+- **Hardware:** Arduino, Raspberry Pi, Breadboards, Multimeter, Oscilloscope
 
 ### My Favourite Projects
 1. **(https://github.com/devanshg07/Vanilla-Neural-Network)** I built a neural network from scratch in Python using only basic math, no machine learning libraries. It was tough figuring out forward/backward propagation and gradients on my own, but I stuck with it and learned a lot about how neural networks really work.
