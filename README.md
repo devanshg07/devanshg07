@@ -10,7 +10,7 @@ I have experience in Full-Stack Development, typically using a **React.js** fron
 My primary motive as an engineer is to develop technologies and tools that make an immediate yet impactful change on our society. Whether it's through coding or hardware, I want to more than just use my skills, I instead want to apply them in the real world and leave a positive dent on my community.
 
 ### Skills & Technologies
-- **Tools & Databases:** Git,, PostgreSQL, MySQL, SQLite
+- **Tools & Databases:** Git, PostgreSQL, MySQL, SQLite
 - **Languages:** Python, Java, JavaScript, TypeScript, HTML/CSS, SQL, C++, C
 - **Libraries and Frameworks:** Flask, React.js, Node.js, Next.js, Svelte.js, PyTorch, TensorFlow, NumPy
 - **Tools and Databases:** Git, GitHub, PostgreSQL, MySQL, SQLite, MongoDB
