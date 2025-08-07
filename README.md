@@ -7,6 +7,12 @@ My name is Devansh Goyal, and I am originally located in Mississauga, Ontario. I
 ### My Experience
 I have experience in Full-Stack Development, typically using a **React.js** frontend, alongside a **Python** backend using the **Flask** framework. Actively, I am learning to use a **Java** backend to broaden my profile as a developer and use the **Spring Boot** framework along side. Additionally, I also have different experiences in the world of machine learning, where I have built several distinct projects using different libraries and processing types. Soon, I aspire to learn front-end development using the **Scvelete.js** framework, and overall become the best computer engineer I can!
 
+### My Favourite Projects
+1. **(https://github.com/devanshg07/Vanilla-Neural-Network)** I built a neural network from scratch in Python using only basic math, no machine learning libraries. It was tough figuring out forward/backward propagation and gradients on my own, but I stuck with it and learned a lot about how neural networks really work.
+2. **(https://github.com/devanshg07/LLM)** I attempted to build a GPT-2–like language model from scratch using PyTorch. The project included developing a custom tokenizer, implementing the model architecture, training on a dataset, and generating text outputs. I successfully trained the model
+3. **(https://github.com/devanshg07/CiviClinic)** CiviClinic bridges patients and doctors with AI-powered symptom checks, smart wound analysis, and intelligent doctor matching. Instantly assess health, scan injuries, and find care nearby—reducing unnecessary ER visits and making healthcare more accessible. Modern Python/Flask app with machine learning, GPT-powered symptom analysis, and real medical data.
+4. **(https://github.com/devanshg07/HousePricePredictionCanada)** HousePricePredictionCanada is a full-stack machine learning project designed to predict house prices in Canadian cities. It leverages a dataset of real estate listings, including features such as city, number of bedrooms, and bathrooms, to train a regression model. The project provides a user-friendly web interface for users to input property details and receive instant price predictions. Check it out here: https://house-price-prediction-canada-f-git-22cbbe-devanshg07s-projects.vercel.app/
+
 ### My Goals
 My primary motive as an engineer is to develop technologies and tools that make an immediate yet impactful change on our society. Whether it's through coding or hardware, I want to more than just use my skills, I instead want to apply them in the real world and leave a positive dent on my community.
 
@@ -47,21 +53,12 @@ My primary motive as an engineer is to develop technologies and tools that make 
 ![Multimeter](https://img.shields.io/badge/-Multimeter-gray?style=for-the-badge)
 ![Oscilloscope](https://img.shields.io/badge/-Oscilloscope-gray?style=for-the-badge)
 
-### My Favourite Projects
-1. **(https://github.com/devanshg07/Vanilla-Neural-Network)** I built a neural network from scratch in Python using only basic math, no machine learning libraries. It was tough figuring out forward/backward propagation and gradients on my own, but I stuck with it and learned a lot about how neural networks really work.
-2. **(https://github.com/devanshg07/LLM)** I attempted to build a GPT-2–like language model from scratch using PyTorch. The project included developing a custom tokenizer, implementing the model architecture, training on a dataset, and generating text outputs. I successfully trained the model
-3. **(https://github.com/devanshg07/CiviClinic)** CiviClinic bridges patients and doctors with AI-powered symptom checks, smart wound analysis, and intelligent doctor matching. Instantly assess health, scan injuries, and find care nearby—reducing unnecessary ER visits and making healthcare more accessible. Modern Python/Flask app with machine learning, GPT-powered symptom analysis, and real medical data.
-4. **(https://github.com/devanshg07/HousePricePredictionCanada)** HousePricePredictionCanada is a full-stack machine learning project designed to predict house prices in Canadian cities. It leverages a dataset of real estate listings, including features such as city, number of bedrooms, and bathrooms, to train a regression model. The project provides a user-friendly web interface for users to input property details and receive instant price predictions. Check it out here: https://house-price-prediction-canada-f-git-22cbbe-devanshg07s-projects.vercel.app/
-
 ### 📄 Resume
 https://docs.google.com/document/d/1ENQE7DyKBycYKb27E80NPjzEqrZV9eyk/edit?usp=sharing&ouid=104395664869423140192&rtpof=true&sd=true
 
 ### 📬 Reach Out!
 https://www.linkedin.com/in/devanshg07/
-
-Instagram: devanshg07
-
----
+https://www.instagram.com/devansh.goyal__/
 
 ### 📊 GitHub Stats
 
