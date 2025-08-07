@@ -11,10 +11,41 @@ I have experience in Full-Stack Development, typically using a **React.js** fron
 My primary motive as an engineer is to develop technologies and tools that make an immediate yet impactful change on our society. Whether it's through coding or hardware, I want to more than just use my skills, I instead want to apply them in the real world and leave a positive dent on my community.
 
 ### Skills & Technologies
-- **Languages:** Python, Java, JavaScript, TypeScript, HTML/CSS, SQL, C++, C
-- **Libraries and Frameworks:** Flask, React.js, Node.js, Next.js, Svelte.js, PyTorch, TensorFlow, NumPy
-- **Tools and Databases:** Git, GitHub, PostgreSQL, MySQL, SQLite, MongoDB
-- **Hardware:** Arduino, Raspberry Pi, Breadboards, Multimeter, Oscilloscope
+### 🚀 Languages:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+### ⚙️ Libraries & Frameworks:
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🛠️ Tools & Databases:
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔩 Hardware:
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Breadboards](https://img.shields.io/badge/-Breadboards-gray?style=for-the-badge)
+![Multimeter](https://img.shields.io/badge/-Multimeter-gray?style=for-the-badge)
+![Oscilloscope](https://img.shields.io/badge/-Oscilloscope-gray?style=for-the-badge)
 
 ### My Favourite Projects
 1. **(https://github.com/devanshg07/Vanilla-Neural-Network)** I built a neural network from scratch in Python using only basic math, no machine learning libraries. It was tough figuring out forward/backward propagation and gradients on my own, but I stuck with it and learned a lot about how neural networks really work.
