@@ -1,4 +1,4 @@
-## Hey, my name is Devansh👋👋👋
+## Hey, my name is Devansh👋👋👋 ![Profile Views](https://komarev.com/ghpvc/?username=devanshg07&label=Profile%20views&color=0e75b6&style=flat)
 Welcome to my GitHub Profile! I am a passionate developer with a strong desire for both innovation and problem-solving. With over two years of experience in computer science, I am a technologically inclined individual who consistently builds new and real-world problem-solving projects. While building projects, I regularly update my GitHub, and if any of my work interests you feel free to reach out! I'm always open in having a chat and even possibly working together to build a project.  
 
 ### About Me
