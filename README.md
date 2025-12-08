@@ -11,10 +11,9 @@ As a first-year student, I currently have four months of professional work exper
 
 ### Favourite Projects
 
-1. **[Vanilla Neural Network](https://github.com/devanshg07/Vanilla-Neural-Network)** – Built a neural network from scratch in Python using only math, no ML libraries.
-2. **[LLM](https://github.com/devanshg07/LLM)** – GPT-2–like language model from scratch using PyTorch.
-3. **[CiviClinic](https://github.com/devanshg07/CiviClinic)** – AI-powered symptom checks, wound analysis, and doctor matching.
-4. **[HousePricePredictionCanada](https://github.com/devanshg07/HousePricePredictionCanada)** – Full-stack ML project predicting house prices in Canada.
+1. **[[AiTivity](https://github.com/devanshg07/AItivity)]** – A productivity web app designed to help users manage their tasks efficiently
+2. **[Personal Portfolio]([https://github.com/devanshg07/LLM](https://github.com/devanshg07/PersonalPortfolio))** – My personal website/portfolio built with Next.js + TypeScript + CSS.
+3. **[CiviClinic](https://github.com/devanshg07/CiviClinic)** – AI-powered symptom checks, wound analysis, and doctor matching. Merge doctors with the right patients - JamHacks 9
 
 ### Goals
 
