@@ -82,7 +82,7 @@ As a computer engineer, I am looking to work in the fields of systems, merging b
 
 ### 📊 GitHub Stats
 
-![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devanshg07&show_icons=true&theme=tokyonight)
+| ![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devanshg07&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshg07&layout=compact&theme=tokyonight) |
+|---|---|
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshg07&layout=compact&theme=tokyonight)
 
