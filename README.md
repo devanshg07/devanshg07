@@ -17,8 +17,7 @@ As a first-year student, I currently have four months of professional work exper
 
 ### Goals
 
-As a computer engineer, I am looking to work in the fields of systems, merging both hardware and software. I am interested in pursuing a professional career in Embedded Systems and or Firmware Engineering, as they combine my interests of both software and hardware.
-
+As a computer engineer, I am looking to work in the fields of systems, merging both hardware and software. I am interested in pursuing a professional career in Embedded Systems and or Firmware Engineering or Cybersecurity.
 ---
 
 ## My Tech Stack
