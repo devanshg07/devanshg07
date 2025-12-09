@@ -12,7 +12,7 @@ As a first-year student, I currently have four months of professional work exper
 ### Favourite Projects
 
 1. **[[AiTivity](https://github.com/devanshg07/AItivity)]** – A productivity web app designed to help users manage their tasks efficiently
-2. **[[Personal Portfolio]((https://github.com/devanshg07/PersonalPortfolio)]** – My personal website/portfolio built with Next.js + TypeScript + CSS.
+2. **[Personal Portfolio](https://devanshgoyal.vercel.app/)** - My personal website/portfolio built with Next.js, TypeScript, and CSS.
 3. **[[CiviClinic](https://github.com/devanshg07/CiviClinic)]** – AI-powered symptom checks, wound analysis, and doctor matching. Merge doctors with the right patients - JamHacks 9
 
 ### Goals
@@ -21,9 +21,9 @@ As a computer engineer, I am looking to work in the fields of systems, merging b
 
 ---
 
-## Skills & Technologies
+## My Tech Stack
 
-### 🚀 Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
@@ -32,10 +32,8 @@ As a computer engineer, I am looking to work in the fields of systems, merging b
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 
-### ⚙️ Libraries & Frameworks
+### Libraries & Frameworks
 
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
@@ -45,7 +43,7 @@ As a computer engineer, I am looking to work in the fields of systems, merging b
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 
-### 🛠️ Tools & Databases
+### Developer Tools & Databases
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -54,7 +52,7 @@ As a computer engineer, I am looking to work in the fields of systems, merging b
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-### 🔩 Hardware & Learning
+### Currently Learning
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge\&logo=raspberrypi\&logoColor=white)
@@ -64,7 +62,7 @@ As a computer engineer, I am looking to work in the fields of systems, merging b
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
-### 🔧 Polishing
+### Polishing
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
@@ -80,10 +78,11 @@ As a computer engineer, I am looking to work in the fields of systems, merging b
 
 ### 📬 Reach Out
 
-[LinkedIn](https://www.linkedin.com/in/devanshg07/) | [Instagram](https://www.instagram.com/devansh.goyal__/)
+[LinkedIn](https://www.linkedin.com/in/devanshg07/) | [Email](mailto:devanshgoyal087@gmail.com)
 
 ### 📊 GitHub Stats
 
-![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devanshg07\&show_icons=true\&theme=tokyonight)
+![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devanshg07&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshg07\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshg07&layout=compact&theme=tokyonight)
+
