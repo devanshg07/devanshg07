@@ -1,24 +1,3 @@
-## Hey, my name is Devansh 👋👋👋 ![Profile Views](https://komarev.com/ghpvc/?username=devanshg07\&label=Profile%20views\&color=0e75b6\&style=flat)
-
-Welcome to my GitHub Profile! I’m a passionate developer driven by innovation and problem-solving. Over the past two years, I’ve built real-world projects and continually commit changes to my GitHub. I am also a passionate hacker, having attended over 3 hackathons in the past year. I am always open to work with new people, feel free to reach out; let's make a memorable difference together!
-
-### About Me
-
-I’m Devansh Goyal from Mississauga, Ontario, currently studying Computer Engineering at Queen's University. I am an electrical and firmware subteam member at Queen's U Vex Robotics. I am passionate in all fields of computers, looking to specialise in computer networks or firmware throughout my postsecondary degree. In my free time, I enjoy watching football ⚽ (Hala Madrid!), researching global economics and astronomy, and folding origami. 
-### Experience
-
-As a first-year student, I currently have four months of professional work experience through two internships, and I have worked in the fields of both software engineering and machine learning. Actively, I am seeking new internship roles for summer 2026, and if you are interested in learning more, please check out my LinkedIn, resume and personal site! 
-
-### Favourite Projects
-
-1. **[[AiTivity](https://github.com/devanshg07/AItivity)]** – A productivity web app designed to help users manage their tasks efficiently
-2. **[Personal Portfolio](https://devanshgoyal.vercel.app/)** - My personal website/portfolio built with Next.js, TypeScript, and CSS.
-3. **[[CiviClinic](https://github.com/devanshg07/CiviClinic)]** – AI-powered symptom checks, wound analysis, and doctor matching. Merge doctors with the right patients - JamHacks 9
-
-### Goals
-
-As a computer engineer, I am looking to work in the fields of systems, merging both hardware and software. I am interested in pursuing a professional career in Embedded Systems and or Firmware Engineering or Cybersecurity.
----
 
 ## My Tech Stack
 
@@ -67,15 +46,6 @@ As a computer engineer, I am looking to work in the fields of systems, merging b
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
----
-
-### 📄 Resume
-
-[View Resume](https://docs.google.com/document/d/1ENQE7DyKBycYKb27E80NPjzEqrZV9eyk/edit?usp=sharing)
-
-### 📬 Reach Out
-
-[LinkedIn](https://www.linkedin.com/in/devanshg07/) | [Email](mailto:devanshgoyal087@gmail.com)
 
 ### 📊 GitHub Stats
 
