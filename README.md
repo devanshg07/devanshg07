@@ -1,5 +1,5 @@
 const me = {
-    name: 'devansh',
-    age: '19',
-    email: 'devanshgoyal087@gmail.com',
+  name: "Devansh",
+  age: 19,
+  email: "devanshgoyal087@gmail.com"
 };
