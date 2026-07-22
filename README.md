@@ -1,5 +1,9 @@
 # 👋 Hey, I’m Devansh
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=devanshg07&label=Profile%20views&color=0e75b6&style=flat" alt="devanshg07" />
+</p>
+
 Welcome to my GitHub profile!
 
 I’m a passionate developer driven by innovation, systems thinking, and real-world problem solving. Over the past couple of years, I’ve built and shipped multiple projects, continuously iterating and learning through hands-on development and hackathons.
