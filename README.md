@@ -15,29 +15,29 @@ I’ve also participated in 3+ hackathons, and organized 5+ hackathons where I e
 ## 🧠 About Me
 
 ### Interests
-- Computer Networks  
-- Scalable Software Systems
-- Applied AI 
+
+* Computer Networks
+* Scalable Software Systems
+* Applied AI
 
 Outside of tech, I enjoy:
-- ⚽ Football  
-- 🌌 Astronomy & global economics  
-- 📄 Origami  
 
----
+* ⚽ Football
+* 🌌 Astronomy & global economics
+* 📄 Origami
 
-## 🚀 Currently Building
-
-### 🔍 TraceProbe
-A system that analyzes and explains LLM outputs by identifying key reasoning factors behind model responses.
-The goal is to move beyond black-box answers → toward interpretable and auditable AI systems.
 ---
 
 ## 🤝 Let’s Connect
 
 I’m always open to collaborating on interesting projects, especially in:
-- AI systems  
-- Backend engineering  
-- Agentic AI
 
-📫 Email: devanshgoyal087@gmail.com
+* AI systems
+* Backend engineering
+* Agentic AI
+
+📫 Email: [devanshgoyal087@gmail.com](mailto:devanshgoyal087@gmail.com)
+
+<a href="https://discord.com/users/devonshireonearth">
+  <img src="https://img.shields.io/badge/Discord-devonshireonearth-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: devonshireonearth" />
+</a>
